@@ -1,0 +1,212 @@
+中央电视频道,#genre#
+CCTV-1 综合,http://dodge.lwfz.fun:8800/rtp/239.16.10.1:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.1:10010#http://223.95.198.3:8000/hls/1/index.m3u8
+CCTV-2 财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.127:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.2:10020#http://223.95.198.3:8000/hls/2/index.m3u8
+CCTV-3 综艺,http://dodge.lwfz.fun:8800/rtp/239.16.10.2:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.3:10030#http://223.95.198.3:8000/hls/3/index.m3u8
+CCTV-4 中文国际,http://dodge.lwfz.fun:8800/rtp/239.16.10.128:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.4:10040#http://223.95.198.3:8000/hls/4/index.m3u8
+CCTV-5 体育,http://dodge.lwfz.fun:8800/rtp/239.16.10.132:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.53:10530#http://223.95.198.3:8000/hls/5/index.m3u8
+CCTV-6 电影,http://dodge.lwfz.fun:8800/rtp/239.16.10.101:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.6:10060#http://223.95.198.3:8000/hls/6/index.m3u8
+CCTV-7 国防军事,http://dodge.lwfz.fun:8800/rtp/239.16.10.130:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.51:10510#http://223.95.198.3:8000/hls/7/index.m3u8
+CCTV-8 电视剧,http://dodge.lwfz.fun:8800/rtp/239.16.10.102:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.8:10080#http://223.95.198.3:8000/hls/8/index.m3u8
+CCTV-9 纪录,http://dodge.lwfz.fun:8800/rtp/239.16.10.103:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.9:10090#http://223.95.198.3:8000/hls/9/index.m3u8
+CCTV10-科教,http://dodge.lwfz.fun:8800/rtp/239.16.10.108:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.10:10100#http://223.95.198.3:8000/hls/10/index.m3u8
+CCTV-11 戏曲,http://dodge.lwfz.fun:8800/rtp/239.16.10.109:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.11:10110#http://223.95.198.3:8000/hls/11/index.m3u8
+CCTV-12 社会与法,http://dodge.lwfz.fun:8800/rtp/239.16.10.110:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.12:10120#http://223.95.198.3:8000/hls/12/index.m3u8
+CCTV-13 新闻,http://dodge.lwfz.fun:8800/rtp/239.16.10.111:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.13:10130#http://223.95.198.3:8000/hls/13/index.m3u8
+CCTV-14 少儿,http://dodge.lwfz.fun:8800/rtp/239.16.10.112:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.14:10140#http://223.95.198.3:8000/hls/14/index.m3u8
+CCTV-15 音乐,http://dodge.lwfz.fun:8800/rtp/239.16.10.113:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.15:10150#http://223.95.198.3:8000/hls/15/index.m3u8
+CCTV-16 奥林匹克,http://dodge.lwfz.fun:8800/rtp/239.16.20.34:10340#http://223.95.198.3:8000/hls/16/index.m3u8
+CCTV-17 农业农村,http://dodge.lwfz.fun:8800/rtp/239.16.10.129:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.7:10070#http://223.95.198.3:8000/hls/17/index.m3u8
+CCTV-5+ 体育赛事,http://dodge.lwfz.fun:8800/rtp/239.16.10.3:2000#http://dodge.lwfz.fun:8800/rtp/239.16.10.193:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.5:10050
+CCTV-第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-怀旧剧场,http://61.184.46.85:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+中国教育 CETV-1,http://dodge.lwfz.fun:8800/rtp/239.16.10.12:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.78:10780
+中国教育 CETV-4,http://dodge.lwfz.fun:8800/rtp/239.16.10.100:2000
+CGTN-新闻,http://dodge.lwfz.fun:8800/rtp/239.16.10.175:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.252:12520
+CGTN-纪录,http://223.95.198.3:8000/hls/19/index.m3u8
+中央新影-老故事（720P）,http://dodge.lwfz.fun:8800/rtp/239.16.10.251:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.133:11330
+中央新影-中学生（720P）,http://dodge.lwfz.fun:8800/rtp/239.16.10.252:2000
+
+数字付费,#genre#
+CHC家庭影院,http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0#http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC影迷电影,http://171.213.237.113:8686/rtp/239.94.1.174:5140
+
+卫视频道,#genre#
+东南卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.16:2000
+海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=0df6f3fb1775579165
+北京卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.10:2000#http://223.95.198.3:8000/hls/21/index.m3u8
+东方卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.7:2000#http://223.95.198.3:8000/hls/22/index.m3u8
+广东卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.104:2000#http://223.95.198.3:8000/hls/38/index.m3u8
+深圳卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.11:2000#http://223.95.198.3:8000/hls/23/index.m3u8
+浙江卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.5:2000#http://223.95.198.3:8000/hls/24/index.m3u8
+湖南卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.6:2000#http://223.95.198.3:8000/hls/25/index.m3u8
+江苏卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.8:2000#http://223.95.198.3:8000/hls/28/index.m3u8
+安徽卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.9:2000#http://223.95.198.3:8000/hls/30/index.m3u8
+重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.13:2000#http://223.95.198.3:8000/hls/36/index.m3u8
+山东卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.14:2000#http://223.95.198.3:8000/hls/29/index.m3u8
+贵州卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.15:2000#http://223.95.198.3:8000/hls/46/index.m3u8
+陕西卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.17:2000#http://223.95.198.3:8000/hls/43/index.m3u8
+广西卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.18:2000#http://223.95.198.3:8000/hls/39/index.m3u8
+云南卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.19:2000#http://223.95.198.3:8000/hls/45/index.m3u8#http://223.95.198.3:8000/hls/44/index.m3u8
+四川卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.20:2000#http://223.95.198.3:8000/hls/37/index.m3u8
+湖北卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.21:2000#http://223.95.198.3:8000/hls/32/index.m3u8
+河北卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.22:2000#http://223.95.198.3:8000/hls/27/index.m3u8
+江西卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.23:2000#http://223.95.198.3:8000/hls/40/index.m3u8
+山西卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.24:2000
+内蒙古卫视（720）,http://dodge.lwfz.fun:8800/rtp/239.16.10.25:2000
+宁夏卫视（720）,http://dodge.lwfz.fun:8800/rtp/239.16.10.26:2000
+新疆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.27:2000
+吉林卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.28:2000#http://223.95.198.3:8000/hls/35/index.m3u8
+辽宁卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.29:2000#http://223.95.198.3:8000/hls/34/index.m3u8
+天津卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.30:2000#http://223.95.198.3:8000/hls/26/index.m3u8
+海南卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.43:2000#http://223.95.198.3:8000/hls/41/index.m3u8
+黑龙江卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.105:2000#http://223.95.198.3:8000/hls/33/index.m3u8
+西藏卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.106:2000
+青海卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.107:2000#http://223.95.198.3:8000/hls/47/index.m3u8
+甘肃卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.114:2000#http://223.95.198.3:8000/hls/42/index.m3u8
+河南卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.119:2000#http://223.95.198.3:8000/hls/31/index.m3u8
+兵团卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.139:2000
+
+港澳台,#genre#
+凤凰卫视中文台,http://rihou.cc:555/tv/[csjdn]凤凰中文#https://shoturl.cn/T4aKw1#http://183.220.20.17:4321/udp/239.11.0.153:5140#http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv#http://123.157.31.182:7912/rtp/233.50.202.35:5140
+凤凰卫视资讯台,http://rihou.cc:555/tv/[csjdn]凤凰资讯#https://shoturl.cn/7fzhRP#http://183.220.20.17:4321/udp/239.11.0.154:5140#http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv#http://123.157.31.182:7912/rtp/233.50.202.36:5140
+凤凰卫视香港台,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
+华丽翡翠台,http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
+明珠台,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
+无线新闻,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
+TVB星河,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
+ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
+ViuTVsix,http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
+Now新闻台,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
+HOY TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
+HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
+澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
+澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
+澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
+重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
+唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8#http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
+福建省,#genre#
+福建综合频道,https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=de5676831774967353
+福建乡村振兴公共频道,https://live2-fuyun.fjtv.net/ggxcpd/hd/live.m3u8?_upt=2cb3d9d41774967603
+福建新闻频道,https://live1-fuyun.fjtv.net/xwpd/hd/live.m3u8?_upt=898389761775578965
+福建旅游,https://live1-fuyun.fjtv.net/dspd/hd/live.m3u8?_upt=fdc307e41775579050
+福建经济,https://live2-fuyun.fjtv.net/jjpd/hd/live.m3u8?_upt=e07041ce1774967767
+福建文体,https://live1-fuyun.fjtv.net/typd/hd/live.m3u8?_upt=7ded91d41775579115
+福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+厦门第一,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
+漳州一套,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
+龙岩综合,http://stream.lytv.net.cn/2/sd/live.m3u8
+武夷山综合频道,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
+武夷山文旅茶,http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
+三明综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
+三明公共,http://stream.smntv.cn/smtv2/sd/live.m3u8
+三明新闻综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud#http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
+三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
+新罗电视一套,http://stream.lyxltv.com/xltv/sd/live.m3u8?zfud
+建宁综合频道,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
+宁化电视一套,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
+漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
+
+北京市,#genre#
+四海钓鱼,http://dodge.lwfz.fun:8800/rtp/239.16.10.239:2000
+
+上海市,#genre#
+SiTV乐游,http://dodge.lwfz.fun:8800/rtp/239.16.10.240:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.111:11110
+SiTV游戏风云,http://dodge.lwfz.fun:8800/rtp/239.16.10.241:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.112:11120
+SiTV极速汽车,http://dodge.lwfz.fun:8800/rtp/239.16.20.113:11130
+SiTV生活时尚,http://dodge.lwfz.fun:8800/rtp/239.16.10.243:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.114:11140
+SiTV金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
+SiTV都市剧场,http://dodge.lwfz.fun:8800/rtp/239.16.10.232:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.38:10380
+SiTV欢笑剧场,http://dodge.lwfz.fun:8800/rtp/239.16.10.233:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.39:10390
+SiTV动漫秀场,http://dodge.lwfz.fun:8800/rtp/239.16.10.234:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.40:10400
+SiTV东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.64:10640
+SiTV法治天地,http://dodge.lwfz.fun:8800/rtp/239.16.10.254:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.156:11560
+
+浙江省,#genre#
+浙江6频道,http://223.95.198.3:8000/hls/51/index.m3u8
+浙江新闻频道,http://223.95.198.3:8000/hls/50/index.m3u8
+宁波二套-经济生活频道,http://223.95.198.3:8000/hls/49/index.m3u8
+宁波一套-新闻综合频道,http://223.95.198.3:8000/hls/48/index.m3u8
+
+湖南省,#genre#
+金鹰纪实,http://dodge.lwfz.fun:8800/rtp/239.16.10.253:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.153:11530
+金鹰卡通,http://dodge.lwfz.fun:8800/rtp/239.16.10.115:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.104:11040
+快乐垂钓,http://dodge.lwfz.fun:8800/rtp/239.16.10.236:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.67:10670
+茶频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.237:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.68:10680
+先锋乒羽 720,http://dodge.lwfz.fun:8800/rtp/239.16.20.69:10690
+
+河南省,#genre#
+河南都市频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.120:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.164:11640
+河南民生频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.121:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.165:11650
+河南法治频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.122:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.166:11660
+河南电视剧频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.123:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.167:11670
+河南新闻频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.124:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.168:11680
+河南欢腾购物,http://dodge.lwfz.fun:8800/rtp/239.16.10.125:2000
+河南公共频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.126:2000
+河南戏曲,http://dodge.lwfz.fun:8800/rtp/239.16.10.148:2000
+河南收藏天下,http://dodge.lwfz.fun:8800/rtp/239.16.10.149:2000
+河南中华功夫 ,http://dodge.lwfz.fun:8800/rtp/239.16.10.150:2000
+河南移动戏曲,http://dodge.lwfz.fun:8800/rtp/239.16.10.76:2000
+河南曲艺,http://dodge.lwfz.fun:8800/rtp/239.16.10.78:2000
+河南移动电视,http://dodge.lwfz.fun:8800/rtp/239.16.10.79:2000
+河南乡村频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.181:2000
+郑州1套新闻综合,http://dodge.lwfz.fun:8800/rtp/239.16.10.154:2000
+郑州2套商都频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.155:2000
+郑州3套文体旅游,http://dodge.lwfz.fun:8800/rtp/239.16.10.156:2000
+郑州4套豫剧频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.157:2000
+郑州5套妇女儿童,http://dodge.lwfz.fun:8800/rtp/239.16.10.158:2000
+郑州6套都市生活,http://dodge.lwfz.fun:8800/rtp/239.16.10.159:2000
+健康河南,http://dodge.lwfz.fun:8800/rtp/239.16.10.131:2000
+综合频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.31:2000
+登封综合,http://dodge.lwfz.fun:8800/rtp/239.16.10.32:2000
+巩义综合,http://dodge.lwfz.fun:8800/rtp/239.16.10.33:2000
+新郑综合-XZTV1,http://dodge.lwfz.fun:8800/rtp/239.16.10.35:2000
+淅川广播电视台,http://dodge.lwfz.fun:8800/rtp/239.16.10.38:2000
+禹州电视台,http://dodge.lwfz.fun:8800/rtp/239.16.10.39:2000
+漯河新闻综合,http://dodge.lwfz.fun:8800/rtp/239.16.10.49:2000
+信阳新闻综合,http://dodge.lwfz.fun:8800/rtp/239.16.10.52:2000
+驻马店公共频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.54:2000
+驻马店新闻综合频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.170:2000
+驻马店科教频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.171:2000
+开封新闻综合,http://dodge.lwfz.fun:8800/rtp/239.16.10.57:2000
+南阳一套新闻综合,http://dodge.lwfz.fun:8800/rtp/239.16.10.58:2000
+南阳二套公共频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.165:2000
+南阳三套科教法制,http://dodge.lwfz.fun:8800/rtp/239.16.10.164:2000
+周口一套新闻综合,http://dodge.lwfz.fun:8800/rtp/239.16.10.59:2000
+周口公共频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.172:2000
+周口教育频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.173:2000
+新闻综合,http://dodge.lwfz.fun:8800/rtp/239.16.10.46:2000
+许昌新闻综合,http://dodge.lwfz.fun:8800/rtp/239.16.10.47:2000
+许昌农业科教频,http://dodge.lwfz.fun:8800/rtp/239.16.10.60:2000
+信阳文旅频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.71:2000
+开封文化旅游,http://dodge.lwfz.fun:8800/rtp/239.16.10.177:2000
+调解剧场,http://dodge.lwfz.fun:8800/rtp/239.16.10.183:2000
+祥符电视台,http://dodge.lwfz.fun:8800/rtp/239.16.10.196:2000
+河南欢腾购物,http://dodge.lwfz.fun:8800/rtp/239.16.10.216:2000
+
+江苏省,#genre#
+财富天下,http://dodge.lwfz.fun:8800/rtp/239.16.10.247:2000
+
+少儿频道,#genre#
+北京卡酷少儿,http://dodge.lwfz.fun:8800/rtp/239.16.20.105:11050
+广东嘉佳卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.107:11070
+江苏优漫卡通,http://dodge.lwfz.fun:8800/rtp/239.16.10.44:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.103:11030
+浙江少儿,http://223.95.198.3:8000/hls/52/index.m3u8
+
+其它频道,#genre#
+新视觉,http://dodge.lwfz.fun:8800/rtp/239.16.10.242:2000
+环球旅游,http://dodge.lwfz.fun:8800/rtp/239.16.10.249:2000
+中华特产,http://dodge.lwfz.fun:8800/rtp/239.16.10.250:2000
+
+
+4K-8K超高清频道,#genre#
+CCTV4K,http://223.95.198.3:8000/hls/18/index.m3u8
+北京卫视4K,http://dodge.lwfz.fun:8800/rtp/239.16.10.192:2000
+河南4K实验,http://dodge.lwfz.fun:8800/rtp/239.16.10.210:2000#http://dodge.lwfz.fun:8800/rtp/239.16.20.199:11990
